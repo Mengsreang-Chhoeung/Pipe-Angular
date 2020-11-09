@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "my-tenth-app"
+    }
+  },
+  "defaultProject": "my-tenth-app",
+  "cli": {
+    "analytics": "ef9806da-2a2b-4923-b8b8-1606ff8ade37"
+  }
 }
